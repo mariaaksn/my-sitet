@@ -1,0 +1,13 @@
+@charset "utf-8";
+body {
+	background-image: url("img/pat.png")}
+p {color:#CC0003;font-size:60px;font-family: CURSIVE;}
+.cot{color:antiquewhite;font-size:25px;font-family: CURSIVE }
+.text{color:black;font-size:20px}
+.img {
+border:1px solid black;
+}
+.ltext{color:black;font-size:36px;font-family: CURSIVE;}
+.textm{color:black;font-size:20px;font-family: CURSIVE;}
+.ost{color:black;font-size:25px;font-family: CURSIVE;}
+.osts{color:black;font-size:30px;font-family: CURSIVE;}
